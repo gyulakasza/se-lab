@@ -1,9 +1,11 @@
 # SE Spaceship
+![Java CI with Maven](https://github.com/gyulakasza/se-lab/actions/workflows/maven.yml/badge.svg)
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
 The application is simplified and deliberately contains bugs.
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ## Getting started
 
 - The project is implemented in Java 21.
